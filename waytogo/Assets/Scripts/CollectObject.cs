@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CollectObject : MonoBehaviour
 {
+
+    [SerializeField] private AudioSource collectionSoundEffect;
     private Object thisObject;
 
     private void Awake()
@@ -15,7 +17,8 @@ private void OnTriggerEnter2D(Collider2D collision)
 {
     if(collision.CompareTag("PlayerCollider"))
         {
-                Destroy(gameObject);
+                collectionSoundEffect.Play();
+                Destroy(collision.gameObject);
 
               
 }
