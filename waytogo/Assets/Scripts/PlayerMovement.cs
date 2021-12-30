@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+
+    [SerializeField] AudioSource jumpSoundEffect;
     [SerializeField] private float speed;
     private Rigidbody2D body;
     private Animator anim;
@@ -31,6 +33,8 @@ public class PlayerMovement : MonoBehaviour
             //set animator parameteres
             anim.SetBool("run", horizontalInput !=0);
             anim.SetBool("grounded", grounded);
+
+            
     }
 
 private void Jump()
@@ -39,7 +43,7 @@ private void Jump()
 body.velocity = new Vector2(body.velocity.x, speed);
 anim.SetTrigger("jump");
 grounded = false;
-
+ jumpSoundEffect.Play();
 }
 
 private void OnCollisionEnter2D(Collision2D collision)
