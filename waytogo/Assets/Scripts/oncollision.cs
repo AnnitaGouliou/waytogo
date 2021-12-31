@@ -15,7 +15,7 @@ private void OnCollisionEnter2D(Collision2D collision)
 
     {   
        Die();
-       Invoke("RestartLevel", 1f);
+       Invoke("RestartLevel", 0.4f);
 
 
     }
@@ -24,7 +24,7 @@ private void OnCollisionEnter2D(Collision2D collision)
 {
 
     finishLevel.Play();
-    Invoke("CompleteLevel", 1f);
+    Invoke("CompleteLevel", 0.7f);
   
   
 }    
