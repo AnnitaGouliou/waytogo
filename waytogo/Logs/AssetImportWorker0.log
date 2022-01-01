@@ -2306,3 +2306,25 @@ Received Import Request.
 Start importing Assets/Sprites/1x/logo.png using Guid(e435553f31112480d9f3302e0587b960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59418886cc60aa395168cd15b66d1e71') in 0.135044 seconds
   Import took 0.138746 seconds .
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.6 MB.
+System memory in use after: 166.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2818.
+Total: 3.167565 ms (FindLiveObjects: 0.243331 ms CreateObjectMapping: 0.097632 ms MarkObjects: 2.703068 ms  DeleteObjects: 0.122447 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.6 MB.
+System memory in use after: 166.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2818.
+Total: 2.790984 ms (FindLiveObjects: 0.244998 ms CreateObjectMapping: 0.086758 ms MarkObjects: 2.339995 ms  DeleteObjects: 0.118271 ms)
+
