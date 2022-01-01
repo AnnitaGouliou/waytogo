@@ -2218,3 +2218,11 @@ System memory in use after: 197.9 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2803.
 Total: 2.893029 ms (FindLiveObjects: 0.360386 ms CreateObjectMapping: 0.134127 ms MarkObjects: 2.278917 ms  DeleteObjects: 0.116455 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 157544.094055 seconds.
+  path: Assets/Levels/EndScene.unity
+  artifactKey: Guid(49b81c67c0d2d4a078b19271f0dc0032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/EndScene.unity using Guid(49b81c67c0d2d4a078b19271f0dc0032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89b0b3e366348c9a4a203bb738cf32f') in 0.014352 seconds
+  Import took 0.017854 seconds .
+
