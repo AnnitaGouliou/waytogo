@@ -2234,3 +2234,75 @@ Received Import Request.
 Start importing Assets/Sprites/1x/242010247_10161217851773275_7666293237677645193_n.jpeg using Guid(65b99c7b4f30041c3abd450872e7f656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1dcac8502d591f495b9f47e05d3a34') in 0.130658 seconds
   Import took 0.134041 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.3 MB.
+System memory in use after: 202.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2811.
+Total: 2.096640 ms (FindLiveObjects: 0.218925 ms CreateObjectMapping: 0.073428 ms MarkObjects: 1.707260 ms  DeleteObjects: 0.096308 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.6 MB.
+System memory in use after: 161.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2811.
+Total: 2.810143 ms (FindLiveObjects: 0.226561 ms CreateObjectMapping: 0.088143 ms MarkObjects: 2.381436 ms  DeleteObjects: 0.113205 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002519 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.5 MB.
+System memory in use after: 202.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2815.
+Total: 2.133326 ms (FindLiveObjects: 0.220812 ms CreateObjectMapping: 0.077027 ms MarkObjects: 1.725813 ms  DeleteObjects: 0.108838 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.8 MB.
+System memory in use after: 161.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2815.
+Total: 2.132111 ms (FindLiveObjects: 0.224038 ms CreateObjectMapping: 0.082206 ms MarkObjects: 1.727794 ms  DeleteObjects: 0.097397 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 371.918711 seconds.
+  path: Assets/Sprites/1x/logo.png
+  artifactKey: Guid(e435553f31112480d9f3302e0587b960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/1x/logo.png using Guid(e435553f31112480d9f3302e0587b960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59418886cc60aa395168cd15b66d1e71') in 0.135044 seconds
+  Import took 0.138746 seconds .
+
