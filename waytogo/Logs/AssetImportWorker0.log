@@ -2226,3 +2226,11 @@ Received Import Request.
 Start importing Assets/Levels/EndScene.unity using Guid(49b81c67c0d2d4a078b19271f0dc0032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89b0b3e366348c9a4a203bb738cf32f') in 0.014352 seconds
   Import took 0.017854 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 250.981006 seconds.
+  path: Assets/Sprites/1x/242010247_10161217851773275_7666293237677645193_n.jpeg
+  artifactKey: Guid(65b99c7b4f30041c3abd450872e7f656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/1x/242010247_10161217851773275_7666293237677645193_n.jpeg using Guid(65b99c7b4f30041c3abd450872e7f656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1dcac8502d591f495b9f47e05d3a34') in 0.130658 seconds
+  Import took 0.134041 seconds .
+
